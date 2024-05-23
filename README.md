@@ -2,7 +2,9 @@
 
 This Python script allows you to automatically create and maintain collections for your Movies and Series using your own tags.
 
-Used [jonjonsson](https://github.com/jonjonsson) wonderful script [Emby-MDBList-Collection-Creator](https://github.com/jonjonsson/Emby-MDBList-Collection-Creator) as base, any credits to them. Many thanks =)
+Used [jonjonsson](https://github.com/jonjonsson) wonderful script [Emby-MDBList-Collection-Creator](https://github.com/jonjonsson/Emby-MDBList-Collection-Creator) as base, any credits to them. 
+
+Many thanks =)
 
 ## Why?
 
