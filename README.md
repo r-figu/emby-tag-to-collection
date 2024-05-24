@@ -2,15 +2,11 @@
 
 This Python script allows you to automatically create and maintain collections for your Movies and Series using your own tags.
 
-Used [jonjonsson](https://github.com/jonjonsson) wonderful script [Emby-MDBList-Collection-Creator](https://github.com/jonjonsson/Emby-MDBList-Collection-Creator) as base, any credits to them. 
-
-Many thanks =)
+Used [jonjonsson](https://github.com/jonjonsson)'s fantastic script [Emby-MDBList-Collection-Creator](https://github.com/jonjonsson/Emby-MDBList-Collection-Creator) as base, all credit to them. 
 
 ## Why?
 
-I've been using Emby for years and once in a while something unexpected messes with my collections. 
-
-As I handle my nfo files with tinyMediaManager, thanks to this script I can easily maintain or recreate all the collections on any Emby server.
+I've been using Emby for a long time and once in a while something unexpected messes with my collections, forcing me to manually set them properly again. Hence the need for a script like this one.
 
 ## Prerequisites:
 
